@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>rssFeedActuality</name>
+	<displayName><![CDATA[Rss Blog - Module]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This is for displaying the RSS of a blog]]></description>
+	<author><![CDATA[Loïc MARTIN]]></author>
+	<tab><![CDATA[content_management]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
